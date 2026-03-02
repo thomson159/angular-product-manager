@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "asdawq213",
+      "price": 12,
+      "category": "peripherals",
+      "stock": 12,
+      "isActive": true
+    },
+    {
+      "id": "431e5d2b-355e-4d81-8097-f19ecb41c960",
+      "name": "asd",
+      "price": 123,
+      "category": "asdasdasdasd",
+      "stock": 1123,
+      "isActive": true
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

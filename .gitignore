@@ -1,0 +1,50 @@
+# Angular / Node
+
+node_modules/
+dist/
+.angular/
+.cache/
+coverage/
+.tmp/
+
+# Logs
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment
+
+.env
+.env.local
+.env.*.local
+
+# IDE
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+
+# OS
+
+Thumbs.db
+
+# Testing
+
+coverage/
+
+# json-server temp db backups
+
+db.json.bak
+
+# Angular build output
+
+out-tsc/
+
+# Optional
+
+*.log
+*.lock
